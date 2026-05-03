@@ -1,0 +1,161 @@
+tracker/tracker/Views/EconomicThesisView.swift
+  1e8a90cdf80985b1 1-607
+tracker/tracker/Views/Components/TopicBadgeView.swift
+  1e8a90cdf80985b1 1-50
+tracker/tracker/Assets.xcassets/AppIcon.appiconset/Contents.json
+  1e8a90cdf80985b1 1-38
+tracker/tracker/trackerApp.swift
+  1e8a90cdf80985b1 1-74
+tracker/tracker/Services/Secrets.swift
+  1e8a90cdf80985b1 1-13
+tracker/tracker/Services/APIClient.swift
+  1e8a90cdf80985b1 1-126
+tracker/tracker/Utilities/AppAppearance.swift
+  1e8a90cdf80985b1 1-25
+tracker/tracker/Views/SettingsView.swift
+  1e8a90cdf80985b1 1-87
+tracker/tracker/ViewModels/TopicListViewModel.swift
+  1e8a90cdf80985b1 1-23
+AppIcon.appiconset/Contents.json
+  1e8a90cdf80985b1 1-128
+tracker/tracker/Views/Components/ChannelRowView.swift
+  1e8a90cdf80985b1 1-24
+tracker/tracker/Models/PaginatedResponse.swift
+  1e8a90cdf80985b1 1-9
+tracker/tracker/Models/VideoSummary.swift
+  1e8a90cdf80985b1 1-13
+tracker/tracker/Models/PersonOverview.swift
+  1e8a90cdf80985b1 1-26
+tracker/tracker/Utilities/DateFormatting.swift
+  1e8a90cdf80985b1 1-108
+tracker/tracker/ViewModels/IngestViewModel.swift
+  1e8a90cdf80985b1 1-37
+tracker/tracker/ViewModels/VideoDetailViewModel.swift
+  1e8a90cdf80985b1 1-67
+tracker/tracker/Utilities/FeatureFlags.swift
+  1e8a90cdf80985b1 1-5
+tracker/tracker/Views/FeedView.swift
+  1e8a90cdf80985b1 1-47
+.gitignore
+  1e8a90cdf80985b1 1-22
+tracker/tracker/Models/TopicOpinions.swift
+  1e8a90cdf80985b1 1-92
+tracker/tracker/Views/Components/StanceIndicator.swift
+  1e8a90cdf80985b1 1-59
+tracker/tracker/Views/IngestView.swift
+  1e8a90cdf80985b1 1-91
+tracker/Secrets.sample.xcconfig
+  1e8a90cdf80985b1 1-4
+tracker/tracker/Models/FeedItem.swift
+  1e8a90cdf80985b1 1-24
+tracker/tracker/Views/ChannelProfileView.swift
+  1e8a90cdf80985b1 1-321
+tracker/.idea/.gitignore
+  1e8a90cdf80985b1 1-3
+tracker/tracker/Views/VideoDetailView.swift
+  1e8a90cdf80985b1 1-141
+tracker/tracker/Models/EconomicThesisTarget.swift
+  1e8a90cdf80985b1 1-6
+tracker/tracker/Models/Channel.swift
+  1e8a90cdf80985b1 1-43
+tracker/tracker/Views/Components/VideoRowView.swift
+  1e8a90cdf80985b1 1-23
+tracker/tracker/Views/TopicListView.swift
+  1e8a90cdf80985b1 1-89
+tracker/tracker/Utilities/NavigationCoordinator.swift
+  1e8a90cdf80985b1 1-21
+tracker/tracker/Models/Topic.swift
+  1e8a90cdf80985b1 1-10
+tracker/tracker/Models/Ingestion.swift
+  1e8a90cdf80985b1 1-23
+tracker/tracker/Assets.xcassets/AccentColor.colorset/Contents.json
+  1e8a90cdf80985b1 1-11
+tracker/tracker/Views/ChannelListView.swift
+  1e8a90cdf80985b1 1-29
+tracker/tracker/ViewModels/TopicOpinionsViewModel.swift
+  1e8a90cdf80985b1 1-57
+tracker/tracker/Models/Video.swift
+  1e8a90cdf80985b1 1-14
+tracker/.idea/modules.xml
+  1e8a90cdf80985b1 1-8
+tracker/tracker/Views/TopicDetailView.swift
+  1e8a90cdf80985b1 1-98
+tracker/Info.plist
+  1e8a90cdf80985b1 1-23
+tracker/tracker/Models/Classification.swift
+  1e8a90cdf80985b1 1-21
+tracker/tracker/ViewModels/FeedViewModel.swift
+  1e8a90cdf80985b1 1-146
+tracker/tracker/Utilities/AppearanceManager.swift
+  1e8a90cdf80985b1 1-16
+tracker/tracker/Views/SummaryReadView.swift
+  1e8a90cdf80985b1 1-68
+tracker/tracker/ViewModels/ChannelProfileViewModel.swift
+  1e8a90cdf80985b1 1-41
+tracker/tracker/Assets.xcassets/Contents.json
+  1e8a90cdf80985b1 1-6
+tracker/tracker/Utilities/AppLanguage.swift
+  1e8a90cdf80985b1 1-22
+tracker/tracker/Views/Components/LoadingStateView.swift
+  1e8a90cdf80985b1 1-40
+tracker/tracker/Views/Components/ChannelAvatarView.swift
+  1e8a90cdf80985b1 1-65
+tracker/tracker.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+  1e8a90cdf80985b1 1-7
+tracker/tracker.xcodeproj/project.pbxproj
+  1e8a90cdf80985b1 1-341
+tracker/tracker/Views/AppNavigationDestinations.swift
+  1e8a90cdf80985b1 1-33
+tracker/.idea/inspectionProfiles/profiles_settings.xml
+  1e8a90cdf80985b1 1-6
+tracker/tracker/Views/ChannelFeedView.swift
+  1e8a90cdf80985b1 1-54
+tracker/tracker/Services/APIEndpoints.swift
+  1e8a90cdf80985b1 1-38
+tracker/tracker/Views/Components/FlowLayout.swift
+  1e8a90cdf80985b1 1-41
+tracker/.gitignore
+  1e8a90cdf80985b1 1-27
+tracker/.idea/vcs.xml
+  1e8a90cdf80985b1 1-6
+tracker/tracker/Views/Components/FeedCardView.swift
+  1e8a90cdf80985b1 1-82
+tracker/tracker/ViewModels/EconomicThesisViewModel.swift
+  1e8a90cdf80985b1 1-27
+tracker/.idea/tracker.iml
+  1e8a90cdf80985b1 1-8
+tracker/tracker/Models/LoadingState.swift
+  1e8a90cdf80985b1 1-9
+tracker/tracker/Models/EconomicThesis.swift
+  1e8a90cdf80985b1 1-80
+tracker/tracker/ViewModels/ChannelListViewModel.swift
+  1e8a90cdf80985b1 1-21
+tracker/tracker/Utilities/AppLocalization.swift
+  1e8a90cdf80985b1 1-117
+tracker/.idea/misc.xml
+  1e8a90cdf80985b1 1-4
+tracker/tracker/Views/TopicOpinionsView.swift
+  1e8a90cdf80985b1 1-338
+tracker/tracker.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+  1e8a90cdf80985b1 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "fa499ae00c2d9cc098341565db875d6276f062a7",
+  "prompts": {
+    "1e8a90cdf80985b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a4375402-6742-4664-9da0-c8a3c868fcb7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "EREN BESLI",
+      "messages": [],
+      "total_additions": 32143,
+      "total_deletions": 0,
+      "accepted_lines": 32143,
+      "overriden_lines": 0
+    }
+  }
+}
