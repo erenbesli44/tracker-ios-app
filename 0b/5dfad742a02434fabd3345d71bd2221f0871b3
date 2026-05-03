@@ -1,0 +1,23 @@
+tracker/tracker/ViewModels/FeedViewModel.swift
+  1e8a90cdf80985b1 78,80-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "0b5dfad742a02434fabd3345d71bd2221f0871b3",
+  "prompts": {
+    "1e8a90cdf80985b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a4375402-6742-4664-9da0-c8a3c868fcb7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "EREN BESLI",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 4,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
