@@ -1,0 +1,22 @@
+# Xcode
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Secrets — never commit
+Secrets.xcconfig
+tracker/Secrets.xcconfig
+
+# macOS
+.DS_Store
+
+# Claude / IDE
+.claude/
+.vscode/
