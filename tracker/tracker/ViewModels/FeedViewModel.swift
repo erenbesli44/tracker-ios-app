@@ -75,11 +75,10 @@ final class FeedViewModel {
 
         let newItems = try await enrich(response.items)
 
-        switch state {
-        case .loaded(let existing):
-            state = newItems.isEmpty ? .loaded(existing) : .loaded(existing + newItems)
-        default:
+        if nextPage == 1 {
             state = newItems.isEmpty ? .empty : .loaded(newItems)
+        } else if case .loaded(let existing) = state {
+            state = newItems.isEmpty ? .loaded(existing) : .loaded(existing + newItems)
         }
     }
 
